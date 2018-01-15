@@ -1,0 +1,32 @@
+[
+    {
+        "name": "katekharitonova/bracketed-lib",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/KateKharitonova/bracketed-lib.git",
+            "reference": "12f0a60353d959d3863b867ab7a019983ff8b56b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/KateKharitonova/bracketed-lib/zipball/12f0a60353d959d3863b867ab7a019983ff8b56b",
+            "reference": "12f0a60353d959d3863b867ab7a019983ff8b56b",
+            "shasum": ""
+        },
+        "time": "2018-01-11T14:46:39+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Kate Kharitonova",
+                "email": "katekharitonova@corp.badoo.com"
+            }
+        ],
+        "description": "Library that parses and validates a line of brackets"
+    }
+]

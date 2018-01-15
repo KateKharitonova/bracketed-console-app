@@ -1,0 +1,15 @@
+{
+  "name": "katekharitonova/bracketed-console-app",
+  "description": "console app that uses bracketed lib",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kate Kharitonova",
+      "email": "katekharitonova@corp.badoo.com"
+    }
+  ],
+  "require": {
+    "katekharitonova/bracketed-lib": "@dev"
+  }
+}

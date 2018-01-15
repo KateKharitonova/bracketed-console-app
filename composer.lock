@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e5d8a1ce2c061dd44c928344056bcda9",
+    "packages": [
+        {
+            "name": "katekharitonova/bracketed-lib",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/KateKharitonova/bracketed-lib.git",
+                "reference": "12f0a60353d959d3863b867ab7a019983ff8b56b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/KateKharitonova/bracketed-lib/zipball/12f0a60353d959d3863b867ab7a019983ff8b56b",
+                "reference": "12f0a60353d959d3863b867ab7a019983ff8b56b",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kate Kharitonova",
+                    "email": "katekharitonova@corp.badoo.com"
+                }
+            ],
+            "description": "Library that parses and validates a line of brackets",
+            "time": "2018-01-11T14:46:39+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "katekharitonova/bracketed-lib": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
